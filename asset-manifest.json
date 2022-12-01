@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/data-cloud-app/static/css/main.6897ca93.css",
+    "main.js": "/data-cloud-app/static/js/main.fdc0f0a9.js",
+    "static/media/footer-bg.jpg": "/data-cloud-app/static/media/footer-bg.f70b4d0add82cdb6ffc5.jpg",
+    "static/media/cloud-bg.png": "/data-cloud-app/static/media/cloud-bg.0200b749df2f917185c5.png",
+    "static/media/contact-bg.png": "/data-cloud-app/static/media/contact-bg.c2dab7563f17c5593f16.png",
+    "static/media/recovery-bg.png": "/data-cloud-app/static/media/recovery-bg.68d2b26aa7dc4d5fa0fd.png",
+    "static/media/cyber-bg.jpg": "/data-cloud-app/static/media/cyber-bg.15364e48facd9f516bd5.jpg",
+    "index.html": "/data-cloud-app/index.html",
+    "main.6897ca93.css.map": "/data-cloud-app/static/css/main.6897ca93.css.map",
+    "main.fdc0f0a9.js.map": "/data-cloud-app/static/js/main.fdc0f0a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6897ca93.css",
+    "static/js/main.fdc0f0a9.js"
+  ]
+}
